@@ -5,6 +5,4 @@ Teste da finalização do git flow - feature
 
 Teste de finalização de git flow - release
 
-teste
-
-teste 1.3.0
+teste 1.3.2
