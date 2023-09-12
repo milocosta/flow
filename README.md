@@ -7,4 +7,4 @@ Teste de finalização de git flow - release
 
 teste
 
-teste 2
+teste 1.2
